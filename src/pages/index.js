@@ -17,7 +17,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Overview | ScotMac Kit
+        Overview | ScotMac
       </title>
     </Head>
     <Box
