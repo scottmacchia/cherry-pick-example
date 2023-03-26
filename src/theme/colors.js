@@ -33,6 +33,15 @@ export const indigo = withAlphas({
   contrastText: '#FFFFFF'
 });
 
+export const teal = withAlphas({
+  lightest: '#DEF6FC',
+  light: '#C3EFFA',
+  main: '#09B3DE',
+  dark: '#1593B3',
+  darkest: '#0F6D85',
+  contrastText: '#FFFFFF'
+});
+
 export const success = withAlphas({
   lightest: '#F0FDF9',
   light: '#3FC79A',

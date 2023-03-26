@@ -10,11 +10,11 @@ import {
 } from '@mui/material';
 
 const user = {
-  avatar: '/assets/avatars/avatar-anika-visser.png',
+  avatar: '/assets/avatars/avatar_scott_macchia.jpeg',
   city: 'Los Angeles',
   country: 'USA',
   jobTitle: 'Senior Developer',
-  name: 'Anika Visser',
+  name: 'Scott Macchia',
   timezone: 'GTM-7'
 };
 

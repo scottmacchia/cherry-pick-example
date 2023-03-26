@@ -61,13 +61,13 @@ const data = [
     address: {
       city: 'Madrid',
       country: 'Spain',
-      name: 'Anika Visser',
+      name: 'Scott Macchia',
       street: '4158  Hedge Street'
     },
-    avatar: '/assets/avatars/avatar-anika-visser.png',
+    avatar: '/assets/avatars/avatar_scott_macchia.jpeg',
     createdAt: subDays(subHours(now, 11), 2).getTime(),
     email: 'anika.visser@devias.io',
-    name: 'Anika Visser',
+    name: 'Scott Macchia',
     phone: '908-691-3242'
   },
   {
